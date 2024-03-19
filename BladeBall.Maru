@@ -1,0 +1,7 @@
+_G.Configs = {
+    ["EnabledFullFarm"] = true, -- Auto Parry, Auto Random Sword, Camera Focus
+    ["Method"] = "TP", -- AI, TP
+    ["JoinRank"] = false, -- Join Rank Method
+    ["WhiteScreen"] = false, -- White Screen
+    ["FPSLOCKAMOUNT"] = 60 -- FPS
+}
