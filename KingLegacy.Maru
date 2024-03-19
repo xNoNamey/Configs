@@ -1,0 +1,32 @@
+_G.KAITUN_KL_MODE = true
+_G.Settings_Farm = {
+    ["Start_Farm"] = true,
+    ["Enabled_HOP"] = true,
+    ["Fruits_List"] = {
+        'RumbleRumble',
+        'FlameFlame',
+        'MagmaMagma',
+        'LightLight',
+        'GasGas',
+        'IceIce',
+        'SnowSnow',
+        'QuakeQuake',
+        'SpiritSpirit',
+        'PhoenixPhoenix',
+        'DoughDough',
+        'DragonDragon'
+    },
+    ["Enabled_Invisible"] = true,
+    ["Enabled_FastFarm"] = true,
+    ["Amount_FPS"] = 30,
+    ["LOCK_FPS"] = false,
+    ["WhiteScreen"] = false,
+    ["Disabled_Gui"] = false,
+}
+_G.Quests_Settings = {
+     ["V2Observation"] = false,
+     ["V2Aramament"] = false,
+     ["V2DarkLeg"] = false,
+     ["FarmRaid"] = false
+}
+-- Script Here!!
