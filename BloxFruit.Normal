@@ -1,0 +1,29 @@
+_G.KaitunMode = true
+
+-- [[ Setting Config Farm ]] --
+ _G.Teams = "Pirates" 
+ _G.Auto_Kill_Player_Quest = true
+ _G.Auto_Farm_Kaitun = true
+ _G.Neon_Part = false
+
+-- [[ Setting Config Start ]] --
+ _G.Setting_Close_Ui = true
+ _G.WhiteScreen = true
+ _G.Boost_Fps = true
+ _G.RTXMode = false
+ _G.FpsS = 15
+ _G.LockFps = true
+ _G.Disabled_Hop = false
+
+-- [[ Setting Config Fruits ]] --
+ _G.Select_Eat_Fruit = {
+   "Human-Human: Buddha",
+   "Magma-Magma",
+   "Rumble-Rumble",
+   "String-String",
+   "Dark-Dark",
+   "Light-Light",
+   "Quake-Quake",
+   "Ice-Ice",
+   "Flame-Flame",
+}
