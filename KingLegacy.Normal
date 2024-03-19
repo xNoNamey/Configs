@@ -1,0 +1,110 @@
+-- All Config Map King Legacy [ Normal Hub ]
+
+-- [ Setting Config Mode ] --
+
+_G.Script_Language = "Thai" -- ภาษาไทย 
+_G.Script_New_Gui = true -- Ui แบบใหม่ / New Ui
+
+-- [ Auto Farm ] --
+
+_G.AutoFarmLevel = false -- Auto Farm Level
+_G.Weapon = "" -- Select Weapons Ex. "Combat"
+_G.AutoNewWorld = false -- Auto New Wolrd
+_G.AutoThirdWorld = false -- โลก 3
+
+-- [ Auto Farm Boss ] --
+
+_G.AutoHydraMonster = false
+_G.AutoHydraMonsterHop = false
+_G.AutoSeaKing = false
+_G.AutoSeaKingHop = false
+_G.AutoGhostShip = false
+_G.AutoGhostShipHop = false
+_G.MsMother = false
+_G.MsMotherHop = false
+_G.AutoEnma = false
+_G.AutoEnmaHop = false
+_G.AutoKaido = false
+_G.AutoKaidoHop = false
+_G.AllBoss = false
+_G.AllBossHop = false
+
+-- [ Setting Weapons ] --
+
+_G.Method = "Behind" -- Select Method Farm Ex. "Behind"
+_G.Distance = 8 -- Select Distance Ex. 5
+
+_G.BusoHaki = true
+_G.KenHaki = true
+_G.UpMelee = false
+_G.UpDefens = false
+_G.UpSword = false
+_G.UpDevilFruit = false
+_G.Points = 4
+
+_G.SkillZ = true
+_G.SkillX = true
+_G.SkillC = true
+_G.SkillV = true
+_G.SkillE = true
+_G.SkillB = true
+_G.SkillE = false
+
+-- [ Iteam ] --
+
+_G.Saber = false
+_G.SaberHop = false
+_G.SharkBlade = false
+_G.SharkBladeHop = false
+_G.AnubisAxe = false
+_G.AnubisAxeHop = false
+_G.AdventureKnife = false
+_G.AdventureKnifeHop = false
+_G.CookieBlade = false
+_G.CookieBladeHop = false
+_G.MetalTrident = false
+_G.MetalTridentHop = false
+_G.SunkenBlade = false
+_G.SunkenBladeHop = false
+_G.Bisento = false
+_G.BisentoHop = false
+_G.Jitter = false
+_G.JitterHop = false
+_G.Pole = false
+_G.PoleHop = false
+
+-- [ Mice ] --
+
+_G.ESPDK = false
+_G.ESPGH = false
+_G.ESPSK = false
+_G.ESPGH = false
+
+_G.LeePung = false
+_G.GumThirdFrom = false
+_G.OniMask = false
+_G.TenguMask = false
+_G.Spectate = false
+_G.Teleport = false
+_G.FarmPlayer = false
+_G.SweetLozenge = false
+_G.SweetLozengeHop = false
+_G.HybridDeer = false
+_G.GreenElf = false
+_G.GingerBread = false
+
+_G.EnabledPvP = false
+_G.Invisible = false
+_G.NoClip = false
+_G.Fly = false
+_G.FarmBounty = false
+_G.FarmBountyHop = false
+_G.AimbotSelect = false
+_G.AimbotNaer = false
+
+-- [ Dungeons ] --
+
+_G.Dungeon = false
+_G.CyborgHealth = false
+_G.AntiSit = true
+_G.DeletedEffects = false
